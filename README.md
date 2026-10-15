@@ -1,8 +1,8 @@
-<img src="Viore%20Grozea.jpeg" align="left" width="150" alt="Viorel">
+<img src="Viorel%20Grozea.jpeg" align="left" width="150" alt="Viorel">
 
-# Data Analyst
+### Data Analyst
 
-### Certified SQL - Power BI - Python
+##### Certified SQL - Power BI - Python
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/viorelgrozea)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-181717?style=for-the-badge)](https://viorel-portfolio.uk)
 [![Download CV](https://img.shields.io/badge/Download_CV-0077B5?style=for-the-badge)](Grozea%20Viorel%20CV.pdf)
