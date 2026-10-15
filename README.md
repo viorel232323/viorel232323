@@ -1,4 +1,4 @@
-<img src="Viore%20Grozea.jpg" align="left" width="150" alt="Viorel">
+<img src="Viore%20Grozea.jpeg" align="left" width="150" alt="Viorel">
 
 # Data Analyst
 
