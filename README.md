@@ -1,4 +1,13 @@
-## Hi there 👋
+<img src="photo.jpg" align="left" width="150" alt="Viorel">
+
+# Data Analyst
+
+### Certified SQL - Power BI - Python
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/viorelgrozea)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-181717?style=for-the-badge)](https://viorel-portfolio.uk)
+[![Download CV](https://img.shields.io/badge/Download_CV-0077B5?style=for-the-badge)](CV.pdf)
+
+I am a secod-year student pursuing an accounting and finance degree, with a strong passion for data analysis. Over the past seven years, I’ve honed my Excel skills and completed certifications in Oracle SQL(1Z0-071), Power Bi (PL300) and Python(PCAD) and courses in SQL, Power BI, Python and Statistics. I’m eager to apply these skills to solve real-world problems and gain hands-on experience in data analysis.
 
 <!--
 **viorel232323/viorel232323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
